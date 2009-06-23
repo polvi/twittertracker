@@ -1,0 +1,5 @@
+add your twitter username:password to the secrets.py file.
+
+use by calling something like:
+
+python tracker.py Obama
